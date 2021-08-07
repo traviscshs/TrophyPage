@@ -1,0 +1,50 @@
+.firstPage
+{
+    background-image: url("codeblur.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 5% 2%;
+    text-align: center;
+   
+}
+.beg
+{
+    color:white;    
+    font-size: 400%;
+    font-weight: 100;
+    margin: auto;
+    width: 40%;
+    padding: 2% 0;
+    border: solid;
+}
+h1
+{
+    font-weight: 100;
+    margin-bottom: 2%;
+}
+.abs
+{
+    position: absolute;
+}
+
+.row
+{
+    padding: 2% 20%;
+}
+.one
+{
+    width: 100%;
+    padding: 0 2% 2%;
+}
+.two
+{
+    width: 100%;
+    padding: 0 2% 2%;
+}
+@media (max-width:500px)
+{
+    .firstPage
+    {
+        padding-top: 20%;
+    }
+}
